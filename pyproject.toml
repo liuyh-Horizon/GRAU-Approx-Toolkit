@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grau"
+version = "0.1.0"
+description = "GRAU-Approx-Toolkit: Greedy PWLF + PoT/APoT slope quantization and Brevitas fused BN+Act approximation for Generic Reconfigurable Activation Unit (GRAU)."
+requires-python = ">=3.9"
+authors = [{name = "Yuhao Liu"}]
+
+dependencies = [
+  "torch>=2.1.0",
+  "numpy>=1.24.3",
+  "matplotlib>=3.8",
+  "brevitas==0.11.0"
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

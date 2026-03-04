@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: grau
+Version: 0.1.0
+Summary: GRAU-Approx-Toolkit: Greedy PWLF + PoT/APoT slope quantization and Brevitas fused BN+Act approximation for Generic Reconfigurable Activation Unit (GRAU).
+Author: Yuhao Liu
+Requires-Python: >=3.9
+Requires-Dist: torch>=2.1.0
+Requires-Dist: numpy>=1.24.3
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: brevitas==0.11.0
