@@ -5,4 +5,4 @@ from .grau_base import extend_min_max_ranges
 
 __all__ = ["GRAU_PWLF", "GRAU_Linear", "GRAU_Conv2D", "extend_min_max_ranges"]
 
-__version__ = "0.1.0"
+__version__ = "0.1.2"
