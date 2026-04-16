@@ -1,3 +1,9 @@
-/example/network-demo/dataset/
-/example/network-demo/train/
+/backup/
+
+/demo/network-demo/dataset/
+/demo/network-demo/train/
+
+/experiment/dataset/
+/experiment/train/
+
 **/.ipynb_checkpoints/

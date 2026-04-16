@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "grau"
-version = "0.1.2"
+version = "0.1.4"
 description = "GRAU-Approx-Toolkit: Greedy PWLF + PoT/APoT slope quantization and Brevitas fused BN+Act approximation for Generic Reconfigurable Activation Unit (GRAU)."
 requires-python = ">=3.9"
 authors = [{name = "Yuhao Liu"}]

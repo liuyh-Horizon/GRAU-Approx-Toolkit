@@ -1,0 +1,50 @@
+nohup: ignoring input
+2026-04-02 02:29:42 - Starting: ResNet18_ReLU_8bit.ipynb
+2026-04-02 11:56:25 - Finished: ResNet18_ReLU_8bit.ipynb ✅
+2026-04-02 11:56:25 - Starting: ResNet18_ReLU_SiLU_8bit.ipynb
+2026-04-02 21:05:03 - Finished: ResNet18_ReLU_SiLU_8bit.ipynb ✅
+2026-04-02 21:05:03 - Starting: VGG16_ReLU_4bit.ipynb
+2026-04-02 21:40:51 - Finished: VGG16_ReLU_4bit.ipynb ✅
+2026-04-02 21:40:51 - Starting: VGG16_ReLU_8bit.ipynb
+2026-04-02 22:16:38 - Finished: VGG16_ReLU_8bit.ipynb ✅
+2026-04-02 22:16:38 - Starting: VGG16_ReLU_mixed.ipynb
+2026-04-02 22:41:55 - Finished: VGG16_ReLU_mixed.ipynb ✅
+2026-04-02 22:41:55 - Starting: VGG16_Sigmoid_4bit.ipynb
+2026-04-02 23:17:32 - Finished: VGG16_Sigmoid_4bit.ipynb ✅
+2026-04-02 23:17:32 - Starting: VGG16_Sigmoid_8bit.ipynb
+2026-04-02 23:53:29 - Finished: VGG16_Sigmoid_8bit.ipynb ✅
+2026-04-02 23:53:29 - Starting: VGG16_Sigmoid_mixed.ipynb
+2026-04-03 00:19:00 - Finished: VGG16_Sigmoid_mixed.ipynb ✅
+2026-04-03 00:19:00 - Starting: VGG16_SiLU_4bit.ipynb
+2026-04-03 00:54:51 - Finished: VGG16_SiLU_4bit.ipynb ✅
+2026-04-03 00:54:51 - Starting: VGG16_SiLU_8bit.ipynb
+2026-04-03 01:30:28 - Finished: VGG16_SiLU_8bit.ipynb ✅
+2026-04-03 01:30:28 - Starting: VGG16_SiLU_mixed.ipynb
+2026-04-03 01:55:17 - Finished: VGG16_SiLU_mixed.ipynb ✅
+2026-04-03 01:55:17 - All notebooks executed successfully.
+6-04-02 22:41:55 - Starting: VGG16_Sigmoid_4bit.ipynb
+[NbConvertApp] Converting notebook .//VGG16_Sigmoid_4bit.ipynb to notebook
+[NbConvertApp] Writing 688310 bytes to VGG16_Sigmoid_4bit.ipynb
+2026-04-02 23:17:32 - Finished: VGG16_Sigmoid_4bit.ipynb ✅
+2026-04-02 23:17:32 - Starting: VGG16_Sigmoid_8bit.ipynb
+[NbConvertApp] Converting notebook .//VGG16_Sigmoid_8bit.ipynb to notebook
+[NbConvertApp] Writing 685210 bytes to VGG16_Sigmoid_8bit.ipynb
+2026-04-02 23:53:29 - Finished: VGG16_Sigmoid_8bit.ipynb ✅
+2026-04-02 23:53:29 - Starting: VGG16_Sigmoid_mixed.ipynb
+[NbConvertApp] Converting notebook .//VGG16_Sigmoid_mixed.ipynb to notebook
+[NbConvertApp] Writing 688031 bytes to VGG16_Sigmoid_mixed.ipynb
+2026-04-03 00:19:00 - Finished: VGG16_Sigmoid_mixed.ipynb ✅
+2026-04-03 00:19:00 - Starting: VGG16_SiLU_4bit.ipynb
+[NbConvertApp] Converting notebook .//VGG16_SiLU_4bit.ipynb to notebook
+[NbConvertApp] Writing 764767 bytes to VGG16_SiLU_4bit.ipynb
+2026-04-03 00:54:51 - Finished: VGG16_SiLU_4bit.ipynb ✅
+2026-04-03 00:54:51 - Starting: VGG16_SiLU_8bit.ipynb
+[NbConvertApp] Converting notebook .//VGG16_SiLU_8bit.ipynb to notebook
+[NbConvertApp] Writing 772596 bytes to VGG16_SiLU_8bit.ipynb
+2026-04-03 01:30:28 - Finished: VGG16_SiLU_8bit.ipynb ✅
+2026-04-03 01:30:28 - Starting: VGG16_SiLU_mixed.ipynb
+[NbConvertApp] Converting notebook .//VGG16_SiLU_mixed.ipynb to notebook
+[NbConvertApp] Writing 754780 bytes to VGG16_SiLU_mixed.ipynb
+2026-04-03 01:55:17 - Finished: VGG16_SiLU_mixed.ipynb ✅
+2026-04-03 01:55:17 - All notebooks executed successfully.
+2026-04-03 01:55:17 - Script interrupted or crashed.
