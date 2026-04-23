@@ -14,7 +14,7 @@
 
 ## 摘要
 
-随着神经网络规模的持续增长，低精度量化被广泛应用于边缘加速器中。经典的多阈值激活硬件在输出为 \(n\) 比特时需要 \(2^n\) 个阈值，因而随着精度提升，硬件代价会快速增加。我们提出了一种可重构激活硬件 **GRAU**，其基于分段线性拟合，并将各段斜率近似为 2 的幂。该设计仅需要基础比较器和 1-bit 右移器，就可以支持混合精度量化以及 **SiLU** 等非线性函数。与多阈值激活器相比，GRAU 可将 LUT 消耗降低 90% 以上，同时获得更高的硬件效率、灵活性和可扩展性。通常情况下，6–8 段可以取得较好的折中；而在更激进的低成本设置下，复杂非线性函数可能会出现更明显的精度下降。
+With the continuous growth of neural network scales, low-precision quantization is widely used in edge accelerators. Classic multi-threshold activation hardware requires \(2^n\) thresholds for \(n\)-bit outputs, causing a rapid increase in hardware cost as precision increases. We propose a reconfigurable activation hardware, **GRAU**, based on piecewise linear fitting, where the segment slopes are approximated by powers of two. Our design requires only basic comparators and 1-bit right shifters, supporting mixed-precision quantization and nonlinear functions such as **SiLU**. Compared with multi-threshold activators, GRAU reduces LUT consumption by over 90%, achieving higher hardware efficiency, flexibility, and scalability. The best trade-off is usually achieved with 6-8 segments, while complex nonlinearities under aggressive low-cost settings may suffer larger accuracy degradation.
 
 ---
 
