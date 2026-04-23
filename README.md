@@ -1,3 +1,5 @@
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 # GRAU-Approx-Toolkit
 
 **GRAU-Approx-Toolkit** is a Python toolkit for building and evaluating **hardware-friendly approximations** of quantized activation pipelines based on:
