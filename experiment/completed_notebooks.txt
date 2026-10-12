@@ -9,6 +9,7 @@ SFC_SiLU_8bit.ipynb
 SFC_SiLU_mixed.ipynb
 ResNet18_ReLU_8bit.ipynb
 ResNet18_ReLU_SiLU_8bit.ipynb
+ResNet18_ReLU_SiLU_mixed.ipynb
 VGG16_ReLU_4bit.ipynb
 VGG16_ReLU_8bit.ipynb
 VGG16_ReLU_mixed.ipynb
@@ -18,3 +19,12 @@ VGG16_Sigmoid_mixed.ipynb
 VGG16_SiLU_4bit.ipynb
 VGG16_SiLU_8bit.ipynb
 VGG16_SiLU_mixed.ipynb
+ResNet18_ReLU_GELU_8bit.ipynb
+ResNet18_ReLU_GELU_mixed.ipynb
+ResNet18_ReLU_mixed.ipynb
+SFC_GELU_4bit.ipynb
+SFC_GELU_8bit.ipynb
+SFC_GELU_mixed.ipynb
+VGG16_GELU_4bit.ipynb
+VGG16_GELU_8bit.ipynb
+VGG16_GELU_mixed.ipynb
